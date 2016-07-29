@@ -19,7 +19,7 @@ Install node packages
 $ npm install
 ```
 
-Compile and Run (Gulp and tsc will watc on file changes and keep compiling accordingly)
+Compile and Run (Gulp and tsc will be watching on file changes and keep compiling accordingly)
 ```bash
 $ npm start
 ```
